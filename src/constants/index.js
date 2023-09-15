@@ -28,6 +28,10 @@ import {
 	logoWhite,
 	kenzie,
 	vtex,
+	romanha,
+	ligga,
+	domatech,
+	portfolio,
 } from "../assets";
 
 export const navLinks = [
@@ -238,13 +242,98 @@ const projects = [
 			// 	color: "green-text-gradient",
 			// },
 			{
-				name: "tailwind",
-				color: "pink-text-gradient",
+				name: "CSS3",
+				color: "green-text-gradient",
 			},
 		],
 		image: gpt3,
 		source_code_link: "https://github.com/hiranoliveira/gpt3/",
 		source_code_site: "https://gpt3-website-black.vercel.app/",
+	},
+	{
+		name: "Portfolio ReactJS Project",
+		description: "Portfolio built in ReactJS + Tailwind",
+		tags: [
+			{
+				name: "react",
+				color: "blue-text-gradient",
+			},
+			// {
+			// 	name: "mongodb",
+			// 	color: "green-text-gradient",
+			// },
+			{
+				name: "tailwind",
+				color: "pink-text-gradient",
+			},
+		],
+		image: portfolio,
+		source_code_link: "https://github.com/hiranoliveira/gpt3/",
+		source_code_site: "https://gpt3-website-black.vercel.app/",
+	},
+	{
+		name: "Romanha Website (not live yet)",
+		description: "Website built in HTML5 + PHP + SCSS + Bootstrap.",
+		tags: [
+			{
+				name: "HTML5",
+				color: "green-text-gradient",
+			},
+			{
+				name: "PHP",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "SCSS",
+				color: "pink-text-gradient",
+			},
+		],
+		image: romanha,
+		source_code_link: "https://github.com/hiranoliveira/romanha-wp/",
+		source_code_site:
+			"https://www.jobscreative.com.br/jobs/romanha/v2/back/",
+	},
+	{
+		name: "Ligga Website",
+		description: "Website built in HTML5 + PHP + SCSS + Bootstrap.",
+		tags: [
+			{
+				name: "HTML5",
+				color: "green-text-gradient",
+			},
+			{
+				name: "PHP",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "SCSS",
+				color: "pink-text-gradient",
+			},
+		],
+		image: ligga,
+		source_code_link: "https://github.com/hiranoliveira/ligga-wp/",
+		source_code_site: "https://liggavc.com.br/",
+	},
+	{
+		name: "Domatech Website",
+		description: "Website built in ReactJS + NextJS",
+		tags: [
+			{
+				name: "HTML5",
+				color: "green-text-gradient",
+			},
+			{
+				name: "NextJS",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "SCSS",
+				color: "pink-text-gradient",
+			},
+		],
+		image: domatech,
+		source_code_link: "#",
+		source_code_site: "https://domatech.com.br/",
 	},
 	// {
 	// 	name: "Gericht",

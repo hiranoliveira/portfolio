@@ -33,10 +33,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import gpt3 from "./gpt3.png";
+import romanha from "./romanha.png";
+import ligga from "./ligga.png";
+import domatech from "./domatech.png";
+import portfolio from "./portfolio.png";
 import logoWhite from "./hiran-oliveira-favicon-white.svg";
 
 export {
 	gpt3,
+	portfolio,
+	romanha,
+	ligga,
+	domatech,
 	logoWhite,
 	kenzie,
 	jobs,
