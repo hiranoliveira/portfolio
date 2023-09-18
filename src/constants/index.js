@@ -234,7 +234,7 @@ const projects = [
 			"Fully responsive modern UI/UX website in ReactJS from a Figma design",
 		tags: [
 			{
-				name: "react",
+				name: "ReactJS",
 				color: "blue-text-gradient",
 			},
 			// {
@@ -255,7 +255,7 @@ const projects = [
 		description: "Portfolio built in ReactJS + Tailwind",
 		tags: [
 			{
-				name: "react",
+				name: "ReactJS",
 				color: "blue-text-gradient",
 			},
 			// {
@@ -319,11 +319,11 @@ const projects = [
 		description: "Website built in ReactJS + NextJS",
 		tags: [
 			{
-				name: "HTML5",
+				name: "NextJS",
 				color: "green-text-gradient",
 			},
 			{
-				name: "NextJS",
+				name: "ReactJS",
 				color: "blue-text-gradient",
 			},
 			{
