@@ -268,12 +268,13 @@ const projects = [
 			},
 		],
 		image: portfolio,
-		source_code_link: "https://github.com/hiranoliveira/gpt3/",
+		source_code_link: "https://github.com/hiranoliveira/portfolio/",
 		source_code_site: "https://gpt3-website-black.vercel.app/",
 	},
 	{
 		name: "Romanha Website (not live yet)",
-		description: "Website built in HTML5 + PHP + SCSS + Bootstrap.",
+		description:
+			"Food company website built in HTML5 + PHP + SCSS + Bootstrap.",
 		tags: [
 			{
 				name: "HTML5",
@@ -289,13 +290,16 @@ const projects = [
 			},
 		],
 		image: romanha,
-		source_code_link: "https://github.com/hiranoliveira/romanha-wp/",
+		// source_code_link: "https://github.com/hiranoliveira/romanha-wp/",
+		source_code_link: "#",
 		source_code_site:
-			"https://www.jobscreative.com.br/jobs/romanha/v2/back/",
+			// "https://www.jobscreative.com.br/jobs/romanha/v2/back/",
+			"#",
 	},
 	{
 		name: "Ligga Website",
-		description: "Website built in HTML5 + PHP + SCSS + Bootstrap.",
+		description:
+			"Internet company website built and mantained in HTML5 + PHP + SCSS + Bootstrap.",
 		tags: [
 			{
 				name: "HTML5",
@@ -311,7 +315,8 @@ const projects = [
 			},
 		],
 		image: ligga,
-		source_code_link: "https://github.com/hiranoliveira/ligga-wp/",
+		// source_code_link: "https://github.com/hiranoliveira/ligga-wp/",
+		source_code_link: "#",
 		source_code_site: "https://liggavc.com.br/",
 	},
 	{
